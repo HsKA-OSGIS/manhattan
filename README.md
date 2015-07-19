@@ -65,6 +65,8 @@ If you are using OSGeo Live, then the following components are already enabled f
 
 Otherwise the database dump (database_dump.sql), which is also used as a backup, is containing all needed layers. It gives the opportunity to recreate the complete database within a SQL query, so the user only needs to publish these database tables.
 
+Otherwise the database dump (database_dump.sql), which is also used as a backup, is containing all needed layers. It gives the opportunity to recreate the complete database within a SQL query, so the user only needs to publish these database tables.
+
 ## PgRouting
 
 In order to provide the user a routing functionality the following steps need to be done. For further questions the FOSS4G workshop "Routing with pgRouting" provides further information.
